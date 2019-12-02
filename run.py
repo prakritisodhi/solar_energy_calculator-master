@@ -62,5 +62,7 @@ def hello(data, efficiency, battery_capacity, panel_watt, power_use_daytime,
     fig.savefig(o, format=o.split(".")[-1], bbox_inches='tight', 
                pad_inches=0)
 
+
+
 if __name__ == '__main__':
     hello()
