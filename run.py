@@ -63,6 +63,5 @@ def hello(data, efficiency, battery_capacity, panel_watt, power_use_daytime,
                pad_inches=0)
 
 
-
 if __name__ == '__main__':
     hello()
